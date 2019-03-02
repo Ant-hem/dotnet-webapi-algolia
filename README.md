@@ -2,7 +2,7 @@
 
 ## Hi everyone 👋
 
-In this repository you will find the source of an application I used in a talk to present how Algolia can work with a .NET WebAPI and Swagger.
+In this repository you will find the source of an application I used in a talk to present how Algolia can work with a .NET WebAPI and Swagger UI.
 
 The purpose was to show how it's easy to use Algolia with a .NET WebAPI.
 I didn't add all the method of the API since it was a demo. I may add them in the future. If you want to contribute to the project, feel free to submit a PR.
@@ -12,11 +12,11 @@ I didn't add all the method of the API since it was a demo. I may add them in th
 - Set the following environment variables:
 
 ```sh
-ALGOLIA_API_KEY = your_api_key
+ALGOLIA_APPLICATION_ID = your_application_id
 ```
 
 ```sh
-ALGOLIA_APPLICATION_ID = your_admin_key
+ALGOLIA_ADMIN_API_KEY = your_admin_api_key
 ```
 
 - Then type:
