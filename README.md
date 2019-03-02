@@ -7,6 +7,8 @@ In this repository you will find the source of an application I used in a talk t
 The purpose was to show how it's easy to use Algolia with a .NET WebAPI.
 I didn't add all the method of the API since it was a demo. I may add them in the future. If you want to contribute to the project, feel free to submit a PR.
 
+![Screenshot](https://user-images.githubusercontent.com/22633119/53684776-fa06d180-3d11-11e9-9dcb-0bbbfd9ca3a6.png?raw=true  "Screenshot")
+
 ## 🚀 How to start the project?
 
 - Set the following environment variables:
